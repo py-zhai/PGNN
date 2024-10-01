@@ -5,6 +5,7 @@ This is a repository designed for "Periodic Graph Neural Networks for Click Thro
 You can find the model files of PGNN. Here's how to run the preprocessing:
 
 cd dynamic_graph/PGNN_code/
+
 python main_PGNN.py
 
 
