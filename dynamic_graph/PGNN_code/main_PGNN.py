@@ -72,7 +72,7 @@ parser.add_argument('--random_seed', type=int, default=2024)
 parser.add_argument('--field_size', type=int, default=15, help='#fields') 
 parser.add_argument('--loss_type', type=str, default='logloss')
 parser.add_argument('--verbose', type=int, default=1)
-parser.add_argument('--top_k', type=int, default=4)
+parser.add_argument('--top_k', type=int, default=8)
 
 opt = parser.parse_args()
 args, extras = parser.parse_known_args()
