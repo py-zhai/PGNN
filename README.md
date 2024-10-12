@@ -10,3 +10,5 @@ cd dynamic_graph/PGNN_code/
 python main_PGNN.py
 
 requirements: torch 1.7.0 cuda 11.6 dgl 0.7.2 matplotlib 3.4.3 numpy 1.21.2 pandas 1.5.3
+
+To help test the correctness of the code and familarize yourself with the code, we upload the first 500 user's samples of Alimama dataset in all_datasets/Alimama.
